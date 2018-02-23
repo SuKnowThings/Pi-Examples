@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#https://www.sunfounder.com/learn/Super_Kit_V2_for_RaspberryPi/lesson-1-blinking-led-super-kit-for-raspberrypi.html
 import RPi.GPIO as GPIO
 import time
 
